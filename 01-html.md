@@ -10,14 +10,15 @@ In terms of how it looks, we use markup to describe the elements that make up a 
 
 On this page, we’re using:
 Some required elements:
-• *html* – Every page starts and ends with this!
-• *head* – For hidden information about the page
-• *body* – The substance, everything you see ends up here
+
+ - *html* – Every page starts and ends with this!
+ - *head* – For hidden information about the page
+ - *body* – The substance, everything you see ends up here
 
 Some lesser elements:
-• *p* - a paragraph
-• *ul* - an unordered list
-• *div* - a division. /We use these to separate and group elements together/
+ - *p* - a paragraph
+ - *ul* - an unordered list
+ - *div* - a division. /We use these to separate and group elements together/
 
 HTML elements can also have attributes that further define the element, so for `<img src="http://placekitten.com/200/300" />` we’re defining an image element, that is *sourced* from placekitten.com.
 
@@ -34,10 +35,10 @@ or a class:
 Let’s try modifying some HTML!
 
 First, let’s modify some contents:
-• Name your app  – we’ll be creating a visual catalog of product items!
+ - Name your app  – we’ll be creating a visual catalog of product items!
 *Hint:* Look for the `intro`
 
-• Bump up that title – let’s make the last line more impactful by increasing the header weight.
+ - Bump up that title – let’s make the last line more impactful by increasing the header weight.
 *Hint:* We covered it above!
 
 ## Next Steps
